@@ -1,0 +1,7 @@
+Bag of words (BoW) model in NLP
+Last Updated : 08 Mar, 2019
+
+In this article, we are going to discuss a Natural Language Processing
+technique of text modeling known as Bag of Words model. Whenever we apply any algorithm in NLP,
+it works on numbers. We cannot directly feed our text into that algorithm. Hence,
+ Bag of Words model is used to preprocess the text by converting it into a bag of words,
